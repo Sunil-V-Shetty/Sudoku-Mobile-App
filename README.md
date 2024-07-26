@@ -55,9 +55,6 @@ sunilshettyy27@gmail.com.
 ### Side Menu
 <img src="/images/SideMenu.png" width="25%">
 
-### About Us
-<img src="images/About.png" width="25%">
-
 ### Instructions
 <img src="images/Instructions.png" width="25%">
 

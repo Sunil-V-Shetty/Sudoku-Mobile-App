@@ -31,14 +31,6 @@ class About extends Component {
                     style={styles.links}
                     onPress={() => Linking.openURL('https://www.linkedin.com/in/sunil-shetty-166395284/')}>LinkedIn</Text>
                 <Text style={styles.text}>Sunil V</Text>
-                <Text
-                    style={styles.links}
-                    onPress={() => Linking.openURL('https://github.com/Sunil-V-Shetty')}>GitHub</Text>
-                    <Text
-                    style={styles.links}
-                    onPress={() => Linking.openURL('https://www.linkedin.com/in/sunil-shetty-166395284')}>LinkedIn</Text>
-
-                <Text style={styles.text}>We encourage you to input a Sudoku and give the solver a try!</Text>
             </View>
         );
     }
