@@ -1,9 +1,4 @@
 # Sudoku Solver Mobile Application
-
-## Links
-<a href="https://expo.io/artifacts/8b2845de-6f4d-46a0-b2a2-dcfd88b46ef2">Download the app’s APK here</a> in order to sideload it to your Android Device
-
-
 <a href="https://expo.io/artifacts/96c3dac8-b7ba-48d0-9068-317263f07bdf">Download the app’s tarball here</a> in order to run the app on an iOS simulator
 
 
