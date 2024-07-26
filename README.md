@@ -1,6 +1,4 @@
 # Sudoku Solver Mobile Application
-<a href="https://expo.io/artifacts/96c3dac8-b7ba-48d0-9068-317263f07bdf">Download the app’s tarball here</a> in order to run the app on an iOS simulator
-
 
 ## Table of Contents
 
